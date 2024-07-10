@@ -9,12 +9,11 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-Market%20Performance.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** It aims to optimize sales strategies, improve performance, and increase revenue by analyzing data to understand customer behavior, forecast trends, and refine sales processes effectively.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Identify sales patterns, forecast trends and track key performance indicators (KPIs).
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
+- **Role of reports:** It is crucial for understanding customer preferences, improving decision-making, and maximizing revenue by identifying trends, patterns, and opportunities within the market.
 
 ## Finance Report :
 
@@ -27,10 +26,10 @@
 
    **3.** Gross Margin % reports by _[Sub-Zones](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-GM%25%20by%20subzones.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of Financial analytics:** It aims to analyze financial data to enhance decision-making, optimize resource allocation, and improve overall financial performance by identifying trends and risks.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
+- **Importance of analyzing Finance data:** Analyzing finance data is essential for ensuring financial health, making informed strategic decisions, and achieving long-term sustainability that impact profitability and growth.
+  
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
