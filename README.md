@@ -25,7 +25,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-P%26L%20for%20markets.pdf)_
 
-   **3.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-P%26L%20for%20markets.pdf)_
+   **3.** Gross Margin % reports by _[Sub-Zones](https://github.com/ShridattaP20/Excel-AtliQ-Hardware-s/blob/main/AtliQ-GM%25%20by%20subzones.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
